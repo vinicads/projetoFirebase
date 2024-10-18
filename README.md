@@ -7,7 +7,6 @@ Este projeto é um aplicativo simples em React Native que contém um formulário
 Antes de começar, você precisará das seguintes ferramentas instaladas:
 
 - [Node.js](https://nodejs.org/)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/)
 - [Firebase](https://firebase.google.com/)
 
 ## Configuração do Firebase
