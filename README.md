@@ -20,7 +20,7 @@ Para integrar o Firebase ao seu projeto, siga os passos abaixo:
 
 2. **Obtenha as configurações do Firebase:**
    - No painel do projeto, clique em "Configurações do projeto" (ícone de engrenagem).
-   - Na aba "Geral", role até "Suas apps" e clique em "Adicionar app" para o tipo que você deseja usar (iOS ou Android).
+   - Na aba "Geral", role até "Seus apps" e clique em "Adicionar app" para o tipo que você deseja usar (iOS ou Android).
    - Siga as instruções para registrar seu app e obter as configurações necessárias.
 
 3. **Adicione as configurações ao seu projeto:**
