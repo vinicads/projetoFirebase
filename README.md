@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
@@ -9,3 +10,7 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+=======
+# projetoFirebase
+Formulário simples usando React Native no frontend, conectado ao Firebase.
+>>>>>>> 0a3dc437632c9e6612f86ab816d6622698d201c2
