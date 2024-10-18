@@ -1,16 +1,50 @@
-<<<<<<< HEAD
-# Sample Snack app
+# Projeto React Native com Firebase
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este projeto é um aplicativo simples em React Native que contém um formulário para enviar informações para o Firebase.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Requisitos
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Antes de começar, você precisará das seguintes ferramentas instaladas:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- [Firebase](https://firebase.google.com/)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-=======
-# projetoFirebase
-Formulário simples usando React Native no frontend, conectado ao Firebase.
->>>>>>> 0a3dc437632c9e6612f86ab816d6622698d201c2
+## Configuração do Firebase
+
+Para integrar o Firebase ao seu projeto, siga os passos abaixo:
+
+1. **Crie um projeto no Firebase:**
+   - Acesse o [console do Firebase](https://console.firebase.google.com/).
+   - Clique em "Adicionar projeto" e siga as instruções.
+
+2. **Obtenha as configurações do Firebase:**
+   - No painel do projeto, clique em "Configurações do projeto" (ícone de engrenagem).
+   - Na aba "Geral", role até "Suas apps" e clique em "Adicionar app" para o tipo que você deseja usar (iOS ou Android).
+   - Siga as instruções para registrar seu app e obter as configurações necessárias.
+
+3. **Adicione as configurações ao seu projeto:**
+   - No App.js, insira as configurações que você copiou.
+
+## Execução do Projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seuusuario/seurepositorio.git
+```
+
+2. Navegue até a pasta do projeto:
+```bash
+cd projetoFirebase
+```
+
+3. Instale as dependências:
+```bash
+npm install
+```
+
+4. Inicie o aplicativo:
+```bash
+npm start
+```
+5. Abra o aplicativo e teste o cadastro.
