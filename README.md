@@ -30,7 +30,7 @@ Para integrar o Firebase ao seu projeto, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seuusuario/seurepositorio.git](https://github.com/vinicads/projetoFirebase.git)
+git clone https://github.com/vinicads/projetoFirebase.git
 ```
 
 2. Navegue até a pasta do projeto:
